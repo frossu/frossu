@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @frossu. Software Engineering student from Kazakhstan.
+- 👀 I’m interested in Backend Development.
+- 🌱 I’m currently learning C# and ASP.NET.
+- 📫 You can reach me in [telegram](https://t.me/frossu)
